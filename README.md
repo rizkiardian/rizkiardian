@@ -68,19 +68,6 @@
 
 ---
 
-### 📊 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkiardian&show_icons=true&theme=tokyonight&hide_border=true" alt="Rizki's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiardian&theme=tokyonight&hide_border=true" alt="Rizki's GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiardian&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 ### 🏆 Featured Projects
 
 - 🤖 **BIOS Enterprise Operations & Telegram Bot** — RBAC-based ops automation bot with database health monitoring & alerting
